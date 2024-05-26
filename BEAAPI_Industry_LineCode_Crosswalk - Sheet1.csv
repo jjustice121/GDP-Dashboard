@@ -1,0 +1,28 @@
+lc,Industry_Name,NAICS_Codes
+1,All industry total,
+2,Private industries,
+3,"Agriculture, forestry, fishing and hunting",11
+6,"Mining, quarrying and oil and gas extraction",21
+10,Utilities,22
+11,Construction,23
+12,Manufacturing,31-33
+13,Durable goods manufacturing,"321,327-339"
+25,Nondurable goods manufacturing,"311-316,322-326"
+34,Wholesale trade,42
+35,Retail trade,44-45
+36,Transportation and warehousing,48-49
+45,Information,51
+51,Finance and insurance,52
+56,Real estate and rental and leasing,53
+60,"Professional, scientific, and technical services",54
+64,Management of companies and enterprises,55
+65,Administrative and support and waste management and remediation services,56
+69,Educational services,61
+70,Health care and social assistance,62
+76,"Arts, entertainment, and recreation",71
+79,Accomodation and food services,72
+82,Other services (except government and government enterprises),81
+83,Government and government enterprises,92
+84,Federal civilian,
+85,Military,
+86,Local,
